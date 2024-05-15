@@ -5,10 +5,10 @@
 ---
 <div id="badges" align="center">
     <a href="https://img.shields.io/badge/instagram-lucasmonsalvo9-FF0000?style=social&logo=instagram&logoSize=purple&labelColor=https%3A%2F%2Fwww.instagram.com%2Flucasmonsalvo9%2F"
-        alt="instagram badge" />
+        alt="instagram badges" />
     </a>
     <a href="https://img.shields.io/badge/Twitter-monsalvolucas9-blue?style=social&logo=Twitter&logoColor=blue&cacheSeconds=https%3A%2F%2Ftwitter.com%2Fmonsalvolucas9"
-        alt="Twitter badge" />
+        alt="Twitter badges" />
     </a>
     
 </div
