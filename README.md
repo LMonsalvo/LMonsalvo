@@ -4,27 +4,27 @@
 
 ## Sobre mí
 
-- 💻 Desarrollador apasionado
+- 💻 Desarrollador en proceso de aprendisaje...
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
 - 🎨 Amante del diseño y la creatividad
-- 📚 Compartiendo conocimientos a través de blogs y tutoriales
+- 📚 Estudiante de la Universidad Nacional de Rio Cuarto
 
 ## Mis proyectos destacados
 
-- [Proyecto 1](enlace_al_proyecto_1): Breve descripción del proyecto.
-- [Proyecto 2](enlace_al_proyecto_2): Breve descripción del proyecto.
+- [Proyecto 1](enlace_al_proyecto_1): Es para aprobar la materia de la universidad....
 
 ## Contáctame
 
 Puedes encontrarme en las siguientes plataformas:
 
-- [Instagram](enlace_a_tu_perfil_de_instagram)
-- [Twitter](enlace_a_tu_perfil_de_twitter)
+- [Instagram](https://www.instagram.com/lucasmonsalvo9/)
+- [Twitter](https://twitter.com/monsalvolucas9)
+- [Gmail](monsalvolucas9@gmail.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub]()
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
