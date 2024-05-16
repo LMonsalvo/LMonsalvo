@@ -1,10 +1,13 @@
-# ¡Hola! 👋
+ <h1 align="center">Hola 👋, soy Lucas Monsalvo</h1>
+<h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
-¡Bienvenido a mi perfil de GitHub! Soy [tu nombre], un [tu título o descripción breve]. Aquí encontrarás algunos de mis proyectos y contribuciones en GitHub.
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW45bTJuMmpuODN5bW1iN2wzZnJyYnR1MGJ5MXVjbjZ6NXhmdTlvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200" />
+</div>
+<br>
+<br>
 
-## Sobre mí
-
-- 💻 Desarrollador en proceso de aprendisaje...
+- 💻 Desarrollador en proceso de aprendisaje...  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
 - 🎨 Amante del diseño y la creatividad
 - 📚 Estudiante de la Universidad Nacional de Rio Cuarto
@@ -23,8 +26,4 @@ Puedes encontrarme en las siguientes plataformas:
 
 ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
 
-## Estadísticas de GitHub
 
-![Estadísticas de GitHub]()
-
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
