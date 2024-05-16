@@ -14,7 +14,7 @@
 
 ## Mis proyectos destacados
 
-- [Proyecto 1](enlace_al_proyecto_1): Es para aprobar la materia de la universidad....
+- [Proyecto 1](https://github.com/LMonsalvo/1erProyecto): Es para aprobar la materia de la universidad....
 
 ## Contáctame
 
