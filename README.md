@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 💻 Desarrollador en proceso de aprendisaje...  
+- 💻 Desarrollador en proceso de aprendizaje...  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
 - 🎨 Amante del diseño y la creatividad
 - 📚 Estudiante de la Universidad Nacional de Rio Cuarto
